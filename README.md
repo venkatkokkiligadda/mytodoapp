@@ -1,2 +1,0 @@
-# mytodoapp
-Created with CodeSandbox
